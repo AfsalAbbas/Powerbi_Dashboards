@@ -63,7 +63,7 @@ This repository contains the Power BI project file for the **Zephyr Dashboard**,
 ![HR Dashboard](https://github.com/AfsalAbbas/Powerbi_Dashboards/blob/main/Zephyr%20Dashboard/HR.png)
 
 ### Sales Dashboard
-![Sales Dashboard](https://github.com/Rakeek/PowerBI-Dashboards/blob/main/Zephyr%20HR%20%26%20Sales%20Dashboard/Sales%20Dashboard.png)
+![Sales Dashboard](https://github.com/AfsalAbbas/Powerbi_Dashboards/blob/main/Zephyr%20Dashboard/Sales.png)
 
 ### Contact
 For questions or feedback, please reach out to **[Afsal Abbas](mailto:afsuafsal7777@gmail.com)**.
