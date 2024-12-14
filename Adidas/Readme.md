@@ -49,7 +49,6 @@ This repository contains the Power BI project file for the **Adidas Dashboard**,
 - **📏 DAX (Data Analysis Expressions)**: For calculated measures and custom KPIs.
 - **💻 SQL**: Querying and preprocessing data.
 - **📑 Excel**: Initial data validation and transformation.
-```
 
 ## 🌟 Future Enhancements
 - 🤖 Add predictive analytics for sales forecasting and customer churn prediction.
