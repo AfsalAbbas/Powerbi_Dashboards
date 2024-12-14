@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the Power BI project file for the **Zephyr Dashboard**, designed to provide actionable insights into the company's HR and Sales operations. This dashboard leverages advanced data visualization techniques to analyze key metrics, ensuring data-driven decision-making and enhanced operational efficiency.
 
-## Features
+## 🛠️ Features
 ### HR Dashboard
 - **Employee Metrics**: Analyze headcount, gender distribution, and job satisfaction.
 - **Attendance and Productivity**:
@@ -33,7 +33,7 @@ This repository contains the Power BI project file for the **Zephyr Dashboard**,
   - Line chart for sales trends.
   - KPIs for total revenue, customer retention, and sales growth.
 
-## Tools and Technologies
+## 📊 Tools and Technologies
 - **Power BI**: Interactive and advanced dashboard creation.
 - **DAX (Data Analysis Expressions)**: Used for calculated measures and KPIs.
 - **ETL Techniques**: Data preprocessing for clean and reliable datasets.
@@ -57,10 +57,13 @@ This repository contains the Power BI project file for the **Zephyr Dashboard**,
 - Expand the dashboard to include sustainability metrics (e.g., carbon footprint per sales).
 - Implement real-time data refresh for live monitoring.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
+## 📸 Screenshots
+### HR Analytics
+![HR Dashboard](https://github.com/Rakeek/PowerBI-Dashboards/blob/main/Zephyr%20HR%20%26%20Sales%20Dashboard/HR%20Dashboard.png)
+
+### Sales Dashboard
+![Sales Dashboard](https://github.com/Rakeek/PowerBI-Dashboards/blob/main/Zephyr%20HR%20%26%20Sales%20Dashboard/Sales%20Dashboard.png)
 
 ### Contact
 For questions or feedback, please reach out to **[Afsal Abbas](mailto:afsuafsal7777@gmail.com)**.
