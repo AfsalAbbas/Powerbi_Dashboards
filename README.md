@@ -53,4 +53,4 @@ Through this project, I gained hands-on experience in Power BI, including:
 - Improving my skills in data storytelling and presentation
 
 Screenshots:-
-  ![Finance Tracker Dashboard Screenshot](https://github.com/AfsalAbbas/Powerbi_Dashboards/blob/main/Blinkit/Blinkit.png)
+  ![Finance Tracker Dashboard Screenshot](https://github.com/AfsalAbbas/Powerbi_Dashboards/blob/main/Blinkit/Blinkit2.png)
