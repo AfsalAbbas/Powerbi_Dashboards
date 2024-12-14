@@ -1,7 +1,7 @@
-# Zephyr Dashboard Project
+# 📊 Zephyr Dashboard Project
 
 ## Overview
-This repository contains the Power BI project file for the **Zephyr Dashboard**, designed to provide actionable insights into the company's HR and Sales operations. This dashboard leverages advanced data visualization techniques to analyze key metrics, ensuring data-driven decision-making and enhanced operational efficiency.
+🚀 This repository contains the Power BI project file for the **Zephyr Dashboard**, designed to provide actionable insights into the company's HR and Sales operations. This dashboard leverages advanced data visualization techniques to analyze key metrics, ensuring data-driven decision-making and enhanced operational efficiency.
 
 ## 🛠️ Features
 ### HR Dashboard
@@ -52,7 +52,7 @@ This repository contains the Power BI project file for the **Zephyr Dashboard**,
 - Sales Trends (Monthly/Category)
 - Customer Retention Rates
 
-## Future Enhancements
+## 🚀 Future Enhancements
 - Integrate predictive analytics for workforce planning and revenue forecasting.
 - Expand the dashboard to include sustainability metrics (e.g., carbon footprint per sales).
 - Implement real-time data refresh for live monitoring.
